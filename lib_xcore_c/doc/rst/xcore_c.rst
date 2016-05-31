@@ -459,6 +459,12 @@ requirements which must be adhered to ensure safe operation:
 
   #. The core must have interrupts masked when disabling interrupts for a
      resource.
+
+.. Example
+.. ~~~~~~~
+
+.. TODO: Add example usage of interrupts
+
 .. Using trap handlers
 .. ...................
 
